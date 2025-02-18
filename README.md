@@ -1,6 +1,5 @@
 # 🧠 Brain Tumor Segmentation Using an Encoder-Decoder Fully Convolutional Network  
 
-![Brain Tumor Segmentation](https://your-image-url.com) <!-- Replace with an actual image or remove if not needed -->
 
 ## 📌 Overview  
 This repository contains the implementation of **Brain Tumor Segmentation** using an **extension of an encoder-decoder fully convolutional network**. The project utilizes **ensemble deep learning** techniques to enhance segmentation accuracy for **magnetic resonance imaging (MRI)** brain tumor detection.
